@@ -3,10 +3,10 @@
   <img align="right" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Figura-Logo-Instagram-PNG.png" width="48px" height="48px">
 </a>
 <a href="https://github.com/esaumatias" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px">
 </a>
 <a href="https://www.linkedin.com/in/esau-freire-matias/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img align="right" src="https://www.ufpb.br/cdn/icons/redes-sociais/linkedin.png/@@images/image.png" width="48px" height="48px">
 </a>
 <br />
 <p align="left" > 
