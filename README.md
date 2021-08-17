@@ -50,3 +50,10 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esaumatias" alt="Esau-Matias" /> </p>
+
+<a href="https://github.com/esaumatias">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=esaumatias&show_icons=true&theme=dracula" alt="esaumatias" />
+</a>
+<a href="https://github.com/esaumatias">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaumatias&layout=compact&theme=dracula" alt="esaumatias" />
+</a>
