@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vindo e bem vinda! <b align="left"> <img src="https://komarev.com/ghpvc/?username=esaumatias" alt="Esau-Matias" /> </b></h1>
+<h1 align="center"> Seja bem vindo e bem vinda! </h1>
 <a href="https://www.instagram.com/esau_matias/" target="_blank">
   <img align="right" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Figura-Logo-Instagram-PNG.png" width="48px" height="48px">
 </a>
@@ -46,12 +46,4 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 </p>
 
-
-
-
-<a href="https://github.com/esaumatias">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=esaumatias&show_icons=true&theme=dracula" alt="esaumatias" />
-</a>
-<a href="https://github.com/esaumatias">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaumatias&layout=compact&theme=dracula" alt="esaumatias" />
-</a>
+<b align="left"> <img src="https://komarev.com/ghpvc/?username=esaumatias" alt="Esau-Matias" /> </b>
