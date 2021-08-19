@@ -44,11 +44,19 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
 </p>
-<a href="https://github.com/esaumatias">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=esaumatias&show_icons=true&theme=dracula" alt="esaumatias" />
-</a>
-<a href="https://github.com/esaumatias">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaumatias&layout=compact&theme=dracula" alt="esaumatias" />
-</a>
+<p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaumatias&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
+        <!--<br /><br />
+        <!--
+        <a href="https://wakatime.com/@esaumatias">
+                <img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=esaumatias" />
+        </a>
+        -->
+        <!--
+</p>
+<p align="center">
+        -->
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaumatias&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" /><br />
+</p>
 
 
