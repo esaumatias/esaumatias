@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/esau-freire-matias/" target="_blank">
   <img align="right" src="https://www.ufpb.br/cdn/icons/redes-sociais/linkedin.png/@@images/image.png" width="48px" height="48px">
-</a>
+</a> 
 <br />
 <p align="left" > 
   <b>Olá! :)</b>
