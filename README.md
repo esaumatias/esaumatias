@@ -27,7 +27,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628947391008.png" width="400px" />
 
-- 👩‍💻 Estou estudando o módulo de Fundamentos do Desenvolvimento Web;
+- 👩‍💻 Estou estudando o módulo de Desenvolvimento Front-end;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre tecnologia; 
