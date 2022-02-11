@@ -28,15 +28,5 @@
 
 <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=esaumatias&count_private=true&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" />
-        <!--<br /><br />
-        <!--
-        <a href="https://wakatime.com/@esaumatias">
-                <img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=esaumatias" />
-        </a>
-        -->
-        <!--
-</p>
-<p align="center">
-        -->
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaumatias&show_icons=true&layout=compact&title_color=161b22&icon_color=00d9ff&text_color=161b22&bg_color=fff" /><br />
 </p>
