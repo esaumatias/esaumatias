@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628947391008.png" width="400px" />
 
-- 👩‍💻 Estou estudando o módulo de Desenvolvimento Front-end;
+- 👩‍💻 Estou estudando o módulo de Desenvolvimento Back-end;
 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
